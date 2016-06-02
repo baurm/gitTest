@@ -2,7 +2,6 @@
 
 int main()
 {
-  printf("Mal schauen was der Magnus so macht. Anscheinend nix ...\n");
-  printf("na ja\n");
+  printf("Mal schauen was der Magnus so macht.\nDer macht nix\n");
   return 0;
 }
